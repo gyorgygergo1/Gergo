@@ -4,3 +4,4 @@
 # asd
 # igen
 # ne
+# ötöst szeretnék
